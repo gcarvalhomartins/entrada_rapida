@@ -15,6 +15,11 @@ pelo símbolo de _ , assim podemos inserir valores para o banco de dados.
 
 # Exemplos 
 
-Valor de Entrada: Professor João da Silva    Valor de Saída: professor_joao_da_silva
+Valor de Entrada: Professor João da Silva  </br> 
+Valor de Saída: professor_joao_da_silva
+
+# Linguagem utilizada no Projeto
+Até o momento irei usar apenas o javascript.
+
 
 
