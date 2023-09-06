@@ -1,4 +1,6 @@
-# 📑Entrada Rapida 📑
+# 📑Projeto Entrada Rapida 📑
+Apenas um projeto iniciante, para automatizar tarefas
+
 
 # 📚Biblitoecas usadas no projeto📚:
 Até o momento, não usei bibliotecas, ou frameworks.
@@ -13,7 +15,6 @@ pelo símbolo de _ , assim podemos inserir valores para o banco de dados.
 
 # Exemplos 
 
-Valor de Entrada: Professor João da Silva
-Valor de Saída: professor_joao_da_silva
+Valor de Entrada: Professor João da Silva    Valor de Saída: professor_joao_da_silva
 
 
