@@ -13,14 +13,14 @@ Projeto para automatizar uma atividade, que realizamos pelo excel, quase que dia
 Ok, mas que atividade é essa ?🫤
 
 essa atividade nos removemos todos os acentos,apócrafos,e simbolos especiais da palavras, substituimos todos os espaços,
-pelo símbolo de _ , assim podemos inserir valores para o banco de dados.
+pelo símbolo de _ ,e retornando o mesmo valor separado apenas pelo carctere | assim podemos inserir valores para o banco de dados.
 
 </br>
 
 # 🔎Exemplos🔎
 
 Valor de Entrada: Professor João da Silva  </br> 
-Valor de Saída: professor_joao_da_silva
+Valor de Saída: professor_joao_da_silva|Professor João da Silva
 </br>
 
 # 💻Linguagem utilizada no Projeto💻
